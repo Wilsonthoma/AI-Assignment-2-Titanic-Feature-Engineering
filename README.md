@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Assignment Overview
+##  Assignment Overview
 
 This project performs comprehensive data cleaning, feature engineering, and feature selection on the Titanic dataset. The goal is to transform raw passenger data into meaningful features that can predict survival outcomes.
 
@@ -83,7 +83,7 @@ This project performs comprehensive data cleaning, feature engineering, and feat
 
 ---
 
-## 📊 Part 3: Feature Selection (10 Marks)
+##  Part 3: Feature Selection (10 Marks)
 
 ### Top 10 Features by Correlation with Survival
 
@@ -130,7 +130,7 @@ This project performs comprehensive data cleaning, feature engineering, and feat
 
 ---
 
-## 💡 Key Insights & Findings
+##  Key Insights & Findings
 
 ### What Factors Most Influenced Survival?
 
@@ -151,28 +151,11 @@ This project performs comprehensive data cleaning, feature engineering, and feat
 - 👤 **Alone travelers suffered** - Survival rate ~30% vs ~50% for those with family
 - 🎩 **Title revealed status** - "Mr" had lowest survival, "Mrs" had highest
 
----
-
-## 📁 Repository Structure
-
-AI-Assignment-2-Titanic-Survival/
-│
-├── notebooks/
-│ └── Titanic_Assignment_2.ipynb # Complete Jupyter notebook
-│
-├── data/
-│ ├── train.csv # Original training data
-│ ├── test.csv # Test data for predictions
-│ ├── train_cleaned.csv # Dataset after cleaning
-│ └── train_processed.csv # Final engineered dataset
-│
-├── requirements.txt # Python dependencies
-└── README.md # This file
 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Python 3.8 or higher
